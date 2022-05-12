@@ -43,6 +43,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("La moltiplicazione dei due numeri è {0} ",
                Prodotto(v1,v2) ); //richiama il metodo moltiplica
 
+            
+
         }
         static int Prodotto(int v1, int v2)
         { 
